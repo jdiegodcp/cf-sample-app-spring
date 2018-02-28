@@ -10,4 +10,6 @@ $(document).ready( function() {
     })
     }, interval
   )
+  window.alert("Hola estoy haciendo de las mias :D")
 })
+
