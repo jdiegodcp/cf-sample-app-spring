@@ -10,6 +10,6 @@ $(document).ready( function() {
     })
     }, interval
   )
-  window.alert("Hola estoy haciendo de las mias :D")
+  window.alert("Hola estoy haciendo de las mias :D XDXD")
 })
 
